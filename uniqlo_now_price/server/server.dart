@@ -310,6 +310,43 @@ Future<Map<String, ({int price, String name, String url})>> fetchGuJpPrices(
   return prices;
 }
 
+/// 한국과 일본에서 상품명이 다른 경우: 일본식 이름(한글 표기)으로 바꿔서 검색·비교한다
+/// 한국에서 '재킷'인 상품이 일본에선 'パーカ'(파카)인 경우가 있다
+/// (예: 심리스다운재킷 → シームレスダウンパーカ)
+String jaStyleName(String krName) => krName.replaceAll('재킷', '파카');
+
+/// 한국 상품명으로 일본 유니클로를 검색해 가장 비슷한 상품을 고른다. 못 찾으면 null.
+Future<Map<String, dynamic>?> searchUqJp(String name, Map<String, dynamic>? krItem) async {
+  final tokens = toJaTokens(name);
+  // 전체 검색어로 먼저, 결과가 없으면 뒤 단어부터 하나씩 빼며 다시
+  for (var n = tokens.length; n > 0; n--) {
+    final q = Uri.encodeQueryComponent(tokens.take(n).join(' '));
+    try {
+      final j = await getJson('$jpBase?q=$q&limit=30');
+      final cands = [
+        for (final it in (j['result']['items'] as List).cast<Map<String, dynamic>>())
+          if (targetGenders.contains(it['genderCategory'])) it,
+      ];
+      if (cands.isEmpty) continue;
+      final best = pickBestMatch(name, krItem, cands);
+      if (best != null) return best;
+      // 이름 점수가 모자라도, 검색어 단어를 전부 포함하는 상품이 딱 하나면 그것
+      // (예: PUFFTECH베스트 → パフテックコンパクトベスト)
+      if (n == tokens.length) {
+        final all = cands
+            .where((c) => tokens.every((t) => (c['name'] as String).toUpperCase().contains(t)))
+            .toList();
+        if (all.length == 1) return all.first;
+      }
+      return null; // 검색 결과가 있었으면 더 줄이지 않는다
+    } catch (e) {
+      stderr.writeln('일본 검색 실패 $name: $e');
+      return null;
+    }
+  }
+  return null;
+}
+
 /// 상품번호로 일본 유니클로에서 못 찾은 상품을 다시 찾는다.
 /// 1) 끝번호만 다른 같은 상품 (E470118-001 → E470118-000)
 /// 2) 상품명을 가타카나로 바꿔 일본 유니클로에서 검색 → 이름+색상으로 가장 비슷한 것
@@ -335,32 +372,16 @@ Future<Map<String, ({int price, String name, String url})>> fetchUqJpByName(
   for (final p in products) {
     final id = p['productId'] as String;
     if (result.containsKey(id)) continue;
-    final tokens = toJaTokens(p['name'] as String);
+    final original = p['name'] as String;
+    // 원래 이름으로 먼저, 못 찾으면 일본식 이름으로 다시 (예: 재킷 → 파카)
+    final names = <String>{
+      original,
+      jaStyleName(original),
+    };
     Map<String, dynamic>? best;
-    // 전체 검색어로 먼저, 결과가 없으면 뒤 단어부터 하나씩 빼며 다시
-    for (var n = tokens.length; n > 0 && best == null; n--) {
-      final q = Uri.encodeQueryComponent(tokens.take(n).join(' '));
-      try {
-        final j = await getJson('$jpBase?q=$q&limit=30');
-        final cands = [
-          for (final it in (j['result']['items'] as List).cast<Map<String, dynamic>>())
-            if (targetGenders.contains(it['genderCategory'])) it,
-        ];
-        if (cands.isEmpty) continue;
-        best = pickBestMatch(p['name'] as String, krItems[id], cands);
-        // 이름 점수가 모자라도, 검색어 단어를 전부 포함하는 상품이 딱 하나면 그것
-        // (예: PUFFTECH베스트 → パフテックコンパクトベスト)
-        if (best == null && n == tokens.length) {
-          final all = cands
-              .where((c) => tokens.every((t) => (c['name'] as String).toUpperCase().contains(t)))
-              .toList();
-          if (all.length == 1) best = all.first;
-        }
-        break; // 검색 결과가 있었으면 더 줄이지 않는다
-      } catch (e) {
-        stderr.writeln('일본 검색 실패 ${p['name']}: $e');
-        break;
-      }
+    for (final name in names) {
+      best = await searchUqJp(name, krItems[id]);
+      if (best != null) break;
     }
     if (best == null) {
       stdout.writeln('일본 유니클로 상품 못 찾음: ${p['name']}');
