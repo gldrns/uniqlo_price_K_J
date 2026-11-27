@@ -1,0 +1,3687 @@
+{
+  "fetchedAt": "2026-11-27T17:50:53.241225",
+  "date": "2026-11-27",
+  "count": 204,
+  "items": [
+    {
+      "productId": "E492545-000",
+      "name": "히트텍삭스",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492545/item/krgoods_37_492545_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E492545-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E492179-000",
+      "name": "라이트다운볼륨재킷",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 129000,
+      "krPromo": 99900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492179/item/krgoods_26_492179_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E492179-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E489455-000",
+      "name": "히트텍하프삭스",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/489455/item/goods_17_489455_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489455-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E489163-000",
+      "name": "히트텍삭스(페어아일)A",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/489163/item/goods_17_489163_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489163-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E489110-000",
+      "name": "PUFFTECH파카",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 89900,
+      "krPromo": 69900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489110/item/krgoods_27_489110_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489110-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E488795-000",
+      "name": "플란넬셔츠C",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488795/item/krgoods_18_488795_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488795-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E488794-000",
+      "name": "플란넬셔츠B",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488794/item/krgoods_38_488794_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488794-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E488149-000",
+      "name": "히트텍삭스(체크)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488149/item/goods_16_488149_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488149-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E488148-000",
+      "name": "히트텍삭스(케이블)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488148/item/goods_17_488148_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488148-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E488109-000",
+      "name": "히트텍삭스(페어아일)B",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488109/item/goods_30_488109_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488109-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E487348-000",
+      "name": "PUFFTECH베스트",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 69900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487348/item/krgoods_32_487348_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487348-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E487263-000",
+      "name": "웜이지팬츠(다리길이70cm·짧은기장)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487263/item/krgoods_33_487263_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487263-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E487261-000",
+      "name": "웜이지팬츠(다리길이71~77cm)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487261/item/krgoods_33_487261_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487261-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E486957-000",
+      "name": "히트텍하프삭스(파일)소프트핏",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486957/item/goods_69_486957_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486957-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E486955-000",
+      "name": "히트텍삭스(소프트핏)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486955/item/goods_08_486955_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486955-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E486948-000",
+      "name": "히트텍삭스(플러피)스트라이프",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486948/item/goods_30_486948_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486948-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E486942-000",
+      "name": "히트텍하프삭스(컬러블록)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486942/item/krgoods_16_486942_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486942-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E486941-000",
+      "name": "히트텍하프삭스(멀티스트라이프)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486941/item/krgoods_16_486941_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486941-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E486940-000",
+      "name": "히트텍삭스(파일라인)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486940/item/krgoods_18_486940_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486940-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E486939-000",
+      "name": "히트텍삭스(아가일)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486939/item/krgoods_11_486939_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486939-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E486760-000",
+      "name": "캐시미어스카프",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "모자·소품",
+      "krBase": 79900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486760/item/goods_10_486760_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486760-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 5990
+    },
+    {
+      "productId": "E486615-000",
+      "name": "플란넬셔츠A",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486615/item/krgoods_57_486615_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486615-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E470118-001",
+      "name": "PUFFTECH파카",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 89900,
+      "krPromo": 69900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/470118001/item/krgoods_53_470118001_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E470118-001",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E470118-000",
+      "name": "PUFFTECH파카",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 89900,
+      "krPromo": 69900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470118/item/goods_69_470118_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E470118-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 5990
+    },
+    {
+      "productId": "E469956-000",
+      "name": "후리스풀집재킷(컬러블록)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469956/item/krgoods_30_469956_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E469956-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E464329-000",
+      "name": "히트텍삭스(와이드립)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464329/item/goods_69_464329_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E464329-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E462244-000",
+      "name": "히트텍삭스(소프트파일)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462244/item/goods_18_462244_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E462244-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E462237-000",
+      "name": "히트텍삭스(파일)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462237/item/goods_25_462237_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E462237-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E462236-000",
+      "name": "히트텍하프삭스(파일)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "양말",
+      "krBase": 7900,
+      "krPromo": 5900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462236/item/goods_58_462236_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E462236-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 590
+    },
+    {
+      "productId": "E461013-000",
+      "name": "히트텍타이즈",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "이너웨어",
+      "krBase": 16900,
+      "krPromo": 14900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461013/item/goods_08_461013_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E461013-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 1290
+    },
+    {
+      "productId": "E461003-000",
+      "name": "히트텍크루넥T(9부)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "이너웨어",
+      "krBase": 16900,
+      "krPromo": 14900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/461003/item/krgoods_69_461003_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E461003-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 1290
+    },
+    {
+      "productId": "E450543-000",
+      "name": "캐시미어크루넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 129000,
+      "krPromo": 99900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/450543/item/krgoods_15_450543_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E450543-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 10900
+    },
+    {
+      "productId": "E450195-000",
+      "name": "후리스풀집재킷",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/450195/item/krgoods_14_450195_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E450195-000",
+      "saleTypes": [
+        "이번주할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 2026/12/03까지 기간한정가격"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E493045-000",
+      "name": "NY POP ART UT(그래픽T)Andy Warhol",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/493045/item/krgoods_00_493045_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E493045-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E492859-000",
+      "name": "GU트랙재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492859/item/krgoods_69_492859_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E492859-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E492857-000",
+      "name": "GU집업재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492857/item/krgoods_34_492857_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E492857-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E492577-000",
+      "name": "3D니트V넥스웨터(스트라이프)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492577/item/krgoods_37_492577_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E492577-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E492561-000",
+      "name": "심리스다운재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 169000,
+      "krPromo": 149000,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492561/item/krgoods_19_492561_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E492561-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/27부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E492243-000",
+      "name": "GU와이드스트레이트트랙팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492243/item/krgoods_69_492243_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E492243-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E492239-000",
+      "name": "GU체크와이드플레어팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492239/item/krgoods_47_492239_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E492239-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491983-000",
+      "name": "GU퍼피터치스트라이프크루넥스웨터",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491983/item/krgoods_36_491983_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491983-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491982-000",
+      "name": "GU오버사이즈테일러드재킷(패턴)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 69900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491982/item/krgoods_08_491982_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491982-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491981-000",
+      "name": "GU오버사이즈체크테일러드재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 69900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491981/item/krgoods_18_491981_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491981-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491954-000",
+      "name": "GU 3D배럴레그진(다리길이81cm·긴기장)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491954/item/krgoods_37_491954_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491954-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491947-000",
+      "name": "GU워시코튼박시T(긴팔)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491947/item/krgoods_56_491947_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491947-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491928-000",
+      "name": "GU패디드스탠드체크재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491928/item/krgoods_25_491928_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491928-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491927-000",
+      "name": "GU패디드코듀로이재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 79900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491927/item/krgoods_38_491927_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491927-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491926-000",
+      "name": "GU멀티스트라이프스카프",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "모자·소품",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491926/item/krgoods_15_491926_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491926-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491924-000",
+      "name": "GU헤비웨이트스웨트셔츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "스웨트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491924/item/krgoods_30_491924_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491924-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491923-000",
+      "name": "GU하프집파카",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491923/item/krgoods_25_491923_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491923-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491919-000",
+      "name": "GU브로드클로스파자마(긴팔)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "홈웨어",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491919/item/krgoods_65_491919_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491919-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491911-000",
+      "name": "GU웜패디드스탠드재킷(컬러블록)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491911/item/krgoods_46_491911_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491911-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491905-000",
+      "name": "GU턱테이퍼드팬츠(패턴)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491905/item/krgoods_08_491905_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491905-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/27부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491904-000",
+      "name": "GU체크턱테이퍼드팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491904/item/krgoods_18_491904_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491904-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/27부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491902-000",
+      "name": "GU후리스코쿤풀집파카(스트라이프)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491902/item/krgoods_27_491902_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491902-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491899-000",
+      "name": "GU플란넬체크셔츠C",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491899/item/krgoods_18_491899_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491899-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491898-000",
+      "name": "GU플란넬체크셔츠B",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491898/item/krgoods_45_491898_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491898-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491897-000",
+      "name": "GU코듀로이슈퍼와이드팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491897/item/krgoods_38_491897_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491897-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491834-000",
+      "name": "GU와이드슬리브스트라이프스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491834/item/krgoods_30_491834_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491834-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491831-000",
+      "name": "GU웜패디드스탠드재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491831/item/krgoods_55_491831_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491831-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491830-000",
+      "name": "GU패디드모즈코트",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 99900,
+      "krPromo": 79900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491830/item/krgoods_56_491830_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491830-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491828-000",
+      "name": "GU오버사이즈테일러드재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 69900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491828/item/krgoods_33_491828_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491828-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491827-000",
+      "name": "GU스무스스웨트배럴레그팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "스웨트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491827/item/krgoods_57_491827_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491827-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491826-000",
+      "name": "GU나일론립스탑와이드유틸리티팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491826/item/krgoods_56_491826_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491826-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491825-000",
+      "name": "GU퍼피터치니트크루넥스웨터",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491825/item/krgoods_15_491825_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491825-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491824-000",
+      "name": "GU턱테이퍼드팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491824/item/krgoods_33_491824_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491824-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/27부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491822-000",
+      "name": "GU코튼와이드유틸리티팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491822/item/krgoods_36_491822_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491822-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491821-000",
+      "name": "GU헤비웨이트스웨트조거팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "스웨트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491821/item/krgoods_02_491821_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491821-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491820-000",
+      "name": "GU헤비웨이트스웨트하프집업풀오버",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "스웨트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491820/item/krgoods_49_491820_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491820-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491819-000",
+      "name": "GU헤비웨이트스웨트코쿤후디(바이컬러)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "스웨트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491819/item/krgoods_55_491819_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491819-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491817-000",
+      "name": "GU헤비웨이트스웨트코쿤풀집후디",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "스웨트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491817/item/krgoods_49_491817_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491817-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491815-000",
+      "name": "GU후리스코쿤풀집파카",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491815/item/krgoods_56_491815_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491815-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491813-000",
+      "name": "GU페더얀브이넥가디건",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491813/item/krgoods_38_491813_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491813-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491812-000",
+      "name": "GU페이크레더집업재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 79900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491812/item/krgoods_57_491812_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491812-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491811-000",
+      "name": "GU데님워크재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491811/item/krgoods_66_491811_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491811-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491810-000",
+      "name": "GU데님와이드카고팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491810/item/krgoods_56_491810_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491810-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491809-000",
+      "name": "GU코지멜톤발마칸코트",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 99900,
+      "krPromo": 79900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491809/item/krgoods_38_491809_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491809-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491807-000",
+      "name": "GU 3D배럴레그진(다리길이73~76cm)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491807/item/krgoods_37_491807_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491807-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E491380-000",
+      "name": "옥스포드박시셔츠(스트라이프)B",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491380/item/krgoods_65_491380_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491380-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E491365-000",
+      "name": "3D니트터틀넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491365/item/krgoods_64_491365_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491365-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E491363-000",
+      "name": "3D니트모크넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491363/item/krgoods_34_491363_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491363-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E491362-000",
+      "name": "3D니트보트넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491362/item/krgoods_67_491362_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491362-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E491361-000",
+      "name": "3D니트V넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491361/item/krgoods_49_491361_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491361-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E491360-000",
+      "name": "3D니트폴로스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491360/item/krgoods_67_491360_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491360-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E491292-000",
+      "name": "MA-1블루종",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 99900,
+      "krPromo": 79900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491292/item/krgoods_39_491292_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491292-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 7990
+    },
+    {
+      "productId": "E491268-000",
+      "name": "후리스조거팬츠(다리길이68~74cm)",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "바지",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491268/item/krgoods_19_491268_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491268-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E491206-000",
+      "name": "쇼트블루종(패턴)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 99900,
+      "krPromo": 79900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491206/item/krgoods_34_491206_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491206-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 7990
+    },
+    {
+      "productId": "E491096-000",
+      "name": "집업블루종",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491096/item/krgoods_34_491096_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E491096-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E489916-000",
+      "name": "YOASOBI UT(그래픽T)D",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489916/item/krgoods_00_489916_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489916-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/29부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E489915-000",
+      "name": "YOASOBI UT(그래픽T)C",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489915/item/krgoods_08_489915_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489915-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/29부터 가격인하"
+      ],
+      "jpBase": 790
+    },
+    {
+      "productId": "E489914-000",
+      "name": "YOASOBI UT(그래픽T)B",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489914/item/krgoods_00_489914_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489914-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/29부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E489912-000",
+      "name": "Mario Kart World UT(그래픽T)C",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489912/item/krgoods_00_489912_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489912-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/29부터 가격인하"
+      ],
+      "jpBase": 990
+    },
+    {
+      "productId": "E489911-000",
+      "name": "Mario Kart World UT(그래픽T)B",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489911/item/krgoods_00_489911_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489911-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/29부터 가격인하"
+      ],
+      "jpBase": 990
+    },
+    {
+      "productId": "E489909-000",
+      "name": "Pokémon UT(그래픽T)C",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489909/item/krgoods_00_489909_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489909-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/13부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E489908-000",
+      "name": "Pokémon UT(그래픽T)B",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489908/item/krgoods_03_489908_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489908-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/13부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E489508-000",
+      "name": "플란넬박시셔츠(체크)C",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489508/item/krgoods_16_489508_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489508-000",
+      "saleTypes": [
+        "가격할인",
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하",
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E489492-000",
+      "name": "패디드셔츠재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489492/item/krgoods_19_489492_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489492-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 5990
+    },
+    {
+      "productId": "E489487-000",
+      "name": "보아후리스블루종(프린트)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489487/item/krgoods_16_489487_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489487-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E489482-000",
+      "name": "울블렌드해링턴재킷",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 79900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489482/item/krgoods_33_489482_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489482-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E489407-000",
+      "name": "플란넬박시셔츠(체크)B",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489407/item/krgoods_32_489407_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489407-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E489406-000",
+      "name": "플란넬박시셔츠(체크)A",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489406/item/krgoods_12_489406_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489406-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E489160-000",
+      "name": "Andy Warhol UT(그래픽T)D",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489160/item/krgoods_01_489160_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489160-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E489159-000",
+      "name": "Andy Warhol UT(그래픽T)C",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489159/item/krgoods_00_489159_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489159-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E489158-000",
+      "name": "Andy Warhol UT(그래픽T)B",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489158/item/krgoods_09_489158_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489158-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E489157-000",
+      "name": "PIXAR UT(그래픽T)D",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489157/item/krgoods_00_489157_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E489157-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/22부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E488828-000",
+      "name": "커버롤(데님)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "기타",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488828/item/krgoods_68_488828_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488828-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E488798-000",
+      "name": "옥스포드오버사이즈셔츠(스트라이프)B",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488798/item/krgoods_32_488798_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488798-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E488797-000",
+      "name": "옥스포드오버사이즈셔츠(스트라이프)A",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488797/item/krgoods_54_488797_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488797-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E488796-000",
+      "name": "옥스포드오버사이즈셔츠",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488796/item/krgoods_63_488796_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488796-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E488787-000",
+      "name": "집업쇼트재킷(데님)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488787/item/krgoods_69_488787_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488787-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E488785-000",
+      "name": "집업쇼트재킷(패턴)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488785/item/krgoods_34_488785_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488785-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E488774-000",
+      "name": "윈드블럭후리스재킷",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 79900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488774/item/krgoods_26_488774_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488774-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E488760-000",
+      "name": "램스울V넥가디건",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488760/item/krgoods_30_488760_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488760-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E488758-000",
+      "name": "더블페이스크루넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488758/item/krgoods_15_488758_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488758-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E488751-000",
+      "name": "러거셔츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488751/item/krgoods_38_488751_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488751-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E488747-000",
+      "name": "보아후리스블루종",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488747/item/krgoods_32_488747_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488747-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E488726-000",
+      "name": "데님트러커재킷",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488726/item/krgoods_57_488726_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488726-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 5990
+    },
+    {
+      "productId": "E488559-000",
+      "name": "플란넬박시셔츠",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488559/item/krgoods_30_488559_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488559-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E488522-000",
+      "name": "옥스포드박시셔츠(스트라이프)A",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488522/item/krgoods_11_488522_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488522-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E488520-000",
+      "name": "옥스포드박시셔츠",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488520/item/krgoods_55_488520_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488520-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E488441-000",
+      "name": "울캐시미어스톨",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "모자·소품",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488441/item/krgoods_55_488441_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488441-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 5990
+    },
+    {
+      "productId": "E488440-000",
+      "name": "울캐시미어비니",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "모자·소품",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488440/item/krgoods_69_488440_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488440-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E488439-000",
+      "name": "숄더백",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "모자·소품",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488439/item/krgoods_57_488439_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488439-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E488397-000",
+      "name": "EZY배럴진",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488397/item/krgoods_66_488397_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488397-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E488248-000",
+      "name": "ONE PIECE UT(그래픽T)D",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488248/item/krgoods_09_488248_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488248-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/06부터 가격인하"
+      ],
+      "jpBase": 1290
+    },
+    {
+      "productId": "E488247-000",
+      "name": "ONE PIECE UT(그래픽T)C",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488247/item/krgoods_00_488247_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488247-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/29부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E488246-000",
+      "name": "ONE PIECE UT(그래픽T)B",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488246/item/krgoods_69_488246_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488246-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/06부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E488228-000",
+      "name": "터틀넥롱T(긴팔)",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488228/item/krgoods_09_488228_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488228-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E488181-000",
+      "name": "니트재킷",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 129000,
+      "krPromo": 99900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488181/item/krgoods_69_488181_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488181-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E488071-000",
+      "name": "NY POP ART UT(그래픽T)Andy Warhol",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488071/item/krgoods_00_488071_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E488071-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E487962-000",
+      "name": "박시크롭T",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487962/item/krgoods_67_487962_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487962-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/15부터 가격인하"
+      ],
+      "jpBase": 1500
+    },
+    {
+      "productId": "E487943-000",
+      "name": "로우게이지케이블크루넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487943/item/krgoods_30_487943_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487943-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E487939-000",
+      "name": "수플레얀폴로스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487939/item/krgoods_10_487939_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487939-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E487936-000",
+      "name": "보아스탠드재킷",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 99900,
+      "krPromo": 79900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487936/item/krgoods_39_487936_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487936-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/27부터 가격인하"
+      ],
+      "jpBase": 7990
+    },
+    {
+      "productId": "E487855-000",
+      "name": "플러피캐시미어릴랙스가디건",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 169000,
+      "krPromo": 149000,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487855/item/krgoods_32_487855_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487855-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 14900
+    },
+    {
+      "productId": "E487851-000",
+      "name": "코듀로이볼륨팬츠",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487851/item/krgoods_35_487851_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487851-000",
+      "saleTypes": [
+        "가격할인",
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하",
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E487842-000",
+      "name": "더플코트",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 129000,
+      "krPromo": 99900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487842/item/krgoods_39_487842_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487842-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 12900
+    },
+    {
+      "productId": "E487688-000",
+      "name": "커버롤",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "기타",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487688/item/krgoods_31_487688_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487688-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E487516-000",
+      "name": "집업쇼트재킷",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487516/item/krgoods_30_487516_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487516-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E487488-000",
+      "name": "메리노블렌드셔츠칼라가디건",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487488/item/krgoods_57_487488_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487488-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E487487-000",
+      "name": "메리노블렌드크루넥스웨터",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487487/item/krgoods_39_487487_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487487-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E487270-000",
+      "name": "이지와이드팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487270/item/krgoods_34_487270_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487270-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E487258-000",
+      "name": "이지와이드팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487258/item/krgoods_59_487258_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487258-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E487251-000",
+      "name": "스트레이트워크팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487251/item/krgoods_30_487251_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487251-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E487220-000",
+      "name": "턱릴랙스와이드팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487220/item/krgoods_38_487220_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487220-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E487209-000",
+      "name": "슬림치노팬츠",
+      "gender": "MEN",
+      "priceGroup": "01",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487209/item/krgoods_57_487209_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E487209-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E486986-000",
+      "name": "립블루종",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 99900,
+      "krPromo": 79900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486986/item/krgoods_37_486986_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486986-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 7990
+    },
+    {
+      "productId": "E486821-000",
+      "name": "쇼트블루종",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 99900,
+      "krPromo": 79900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486821/item/krgoods_57_486821_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486821-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 7990
+    },
+    {
+      "productId": "E486818-000",
+      "name": "울블렌드쇼트코트",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 99900,
+      "krPromo": 79900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486818/item/krgoods_07_486818_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486818-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/27부터 가격인하"
+      ],
+      "jpBase": 7990
+    },
+    {
+      "productId": "E486817-000",
+      "name": "후드블루종",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486817/item/krgoods_32_486817_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486817-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 5990
+    },
+    {
+      "productId": "E486816-000",
+      "name": "유틸리티재킷",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486816/item/krgoods_38_486816_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486816-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 6990
+    },
+    {
+      "productId": "E486769-000",
+      "name": "레이스업슈즈",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "신발",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486769/item/goods_09_486769_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486769-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E486764-000",
+      "name": "캐시미어니트글러브",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486764/item/goods_10_486764_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486764-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E486755-000",
+      "name": "캐시미어니트비니",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486755/item/goods_10_486755_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486755-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E486747-000",
+      "name": "GU워셔블부클레니트셔츠(반팔)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486747/item/krgoods_09_486747_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486747-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E486746-000",
+      "name": "GU워셔블니트폴로셔츠 (반팔)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 9900,
+      "krPromo": 7900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486746/item/krgoods_11_486746_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486746-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E486736-000",
+      "name": "GU나일론포켓셔츠(반팔)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486736/item/krgoods_32_486736_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486736-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/06부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E486734-000",
+      "name": "GU이지케어브로드클로스셔츠(반팔)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486734/item/krgoods_64_486734_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486734-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E486723-000",
+      "name": "GU조츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "기타",
+      "krBase": 9900,
+      "krPromo": 7900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486723/item/krgoods_61_486723_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486723-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E486722-000",
+      "name": "GU배럴레그진",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486722/item/krgoods_61_486722_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486722-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/27부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E486612-000",
+      "name": "데님셔츠",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486612/item/krgoods_08_486612_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486612-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E486610-000",
+      "name": "브러시드코튼셔츠",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486610/item/krgoods_15_486610_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486610-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E486602-000",
+      "name": "플란넬셔츠(옴브레체크)C",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486602/item/krgoods_55_486602_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486602-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E486600-000",
+      "name": "플란넬셔츠",
+      "gender": "MEN",
+      "priceGroup": "01",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486600/item/krgoods_24_486600_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486600-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E486087-000",
+      "name": "램스울페어아일크루넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486087/item/krgoods_31_486087_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486087-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E486086-000",
+      "name": "램스울V넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486086/item/krgoods_12_486086_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486086-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E486082-000",
+      "name": "3D니트모크넥스웨터",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486082/item/krgoods_09_486082_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E486082-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E485568-000",
+      "name": "드라이피케스트라이프폴로셔츠(패널)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485568/item/krgoods_56_485568_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E485568-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/06/23부터 가격인하"
+      ],
+      "jpBase": 1290
+    },
+    {
+      "productId": "E485566-000",
+      "name": "드라이피케스트라이프폴로셔츠(내로우)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485566/item/krgoods_12_485566_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E485566-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/08/11부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E485312-000",
+      "name": "YOASOBI UT(그래픽T)A",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485312/item/krgoods_09_485312_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E485312-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/29부터 가격인하"
+      ],
+      "jpBase": 790
+    },
+    {
+      "productId": "E485308-000",
+      "name": "PIXAR UT(그래픽T)A",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485308/item/krgoods_66_485308_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E485308-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/22부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E485071-000",
+      "name": "NY POP ART UT(그래픽T)Basquiat",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485071/item/krgoods_57_485071_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E485071-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/09/29부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E485059-000",
+      "name": "PEANUTS UT(그래픽T)B 링거",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485059/item/krgoods_69_485059_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E485059-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E485058-000",
+      "name": "PEANUTS UT(그래픽T)A 링거",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485058/item/krgoods_30_485058_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E485058-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E484807-001",
+      "name": "배기배럴레그진(다리길이80cm·긴기장)",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "바지",
+      "krBase": 59900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484807001/item/krgoods_64_484807001_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E484807-001",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E484807-000",
+      "name": "배기배럴레그진(다리길이80cm·긴기장)",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "바지",
+      "krBase": 59900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484807/item/krgoods_67_484807_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E484807-000",
+      "saleTypes": [
+        "가격할인",
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하",
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E484777-000",
+      "name": "Pokémon UT(그래픽T)A",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484777/item/krgoods_00_484777_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E484777-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/13부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E484760-000",
+      "name": "Louvre UT(그래픽T)B",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484760/item/krgoods_09_484760_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E484760-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/07/28부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E484610-000",
+      "name": "해링턴재킷",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "아우터",
+      "krBase": 89900,
+      "krPromo": 69900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484610/item/krgoods_69_484610_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E484610-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 6990
+    },
+    {
+      "productId": "E484330-000",
+      "name": "콤비네이션스니커즈",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "신발",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484330/item/goods_32_484330_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E484330-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E484249-000",
+      "name": "집업블루종",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484249/item/krgoods_57_484249_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E484249-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E484244-000",
+      "name": "옥스포드오버사이즈셔츠",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484244/item/krgoods_00_484244_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E484244-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E483972-000",
+      "name": "DRY-EX폴로셔츠(패턴)",
+      "gender": "MEN",
+      "priceGroup": "01",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/483972/item/krgoods_66_483972_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E483972-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/13부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E482883-000",
+      "name": "와이드카고팬츠",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 29900,
+      "krPromo": 19900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482883/item/krgoods_35_482883_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E482883-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E482868-000",
+      "name": "배기진",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482868/item/krgoods_67_482868_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E482868-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E482770-000",
+      "name": "ONE PIECE UT(그래픽T)A",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "티셔츠",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482770/item/krgoods_00_482770_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E482770-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/06부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E482321-000",
+      "name": "3D니트크루넥스웨터(워셔블)",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482321/item/krgoods_27_482321_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E482321-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E482305-000",
+      "name": "DRY-EX폴로셔츠",
+      "gender": "MEN",
+      "priceGroup": "01",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482305/item/krgoods_03_482305_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E482305-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/13부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E482260-000",
+      "name": "리넨블렌드이지쇼트팬츠",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 12900,
+      "krPromo": 9900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482260/item/krgoods_09_482260_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E482260-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E481731-000",
+      "name": "밀라노립풀집가디건",
+      "gender": "UNISEX",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 59900,
+      "krPromo": 49900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481731/item/krgoods_15_481731_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E481731-000",
+      "saleTypes": [
+        "가격할인",
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하",
+        "2026/06/30부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E481582-000",
+      "name": "스트레치이지쇼트팬츠",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "바지",
+      "krBase": 9900,
+      "krPromo": 7900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481582/item/krgoods_57_481582_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E481582-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/20부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E481224-000",
+      "name": "플란넬셔츠(옴브레체크)A",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481224/item/krgoods_34_481224_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E481224-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E481030-000",
+      "name": "와이드치노팬츠(다리길이85.5cm·긴기장)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481030/item/krgoods_35_481030_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E481030-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E481004-000",
+      "name": "워셔블밀라노립니트T(반팔)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "니트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481004/item/krgoods_01_481004_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E481004-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/08/27부터 가격인하"
+      ],
+      "jpBase": 2990
+    },
+    {
+      "productId": "E479755-000",
+      "name": "PUFFTECH재킷",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 69900,
+      "krPromo": 59900,
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479755/item/goods_31_479755_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E479755-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E478285-000",
+      "name": "울캐시미어체스터필드코트",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "아우터",
+      "krBase": 199000,
+      "krPromo": 169000,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/478285/item/krgoods_36_478285_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E478285-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 17900
+    },
+    {
+      "productId": "E477345-000",
+      "name": "저지배럴레그팬츠(다리길이77cm·긴기장)",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "바지",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/477345/item/krgoods_39_477345_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E477345-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/17부터 가격인하"
+      ],
+      "jpBase": 4990
+    },
+    {
+      "productId": "E475053-000",
+      "name": "스무드코튼크루넥스웨터",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "니트",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/475053/item/krgoods_14_475053_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E475053-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E470549-000",
+      "name": "와이드치노팬츠(다리길이72.5~74.5cm)",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/470549/item/krgoods_35_470549_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E470549-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E470542-000",
+      "name": "와이드스트레이트진",
+      "gender": "MEN",
+      "priceGroup": "00",
+      "tag": "바지",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/470542/item/krgoods_63_470542_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E470542-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/10부터 가격인하"
+      ],
+      "jpBase": null
+    },
+    {
+      "productId": "E470187-000",
+      "name": "플란넬셔츠(블록체크)",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "셔츠",
+      "krBase": 39900,
+      "krPromo": 29900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/470187/item/krgoods_38_470187_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E470187-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E465185-000",
+      "name": "AIRism코튼오버사이즈크루넥T(5부)",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/465185/item/krgoods_42_465185_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E465185-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/10/20부터 가격인하"
+      ],
+      "jpBase": 1990
+    },
+    {
+      "productId": "E453754-000",
+      "name": "밀라노립크루넥스웨터(워셔블)",
+      "gender": "UNISEX",
+      "priceGroup": "01",
+      "tag": "니트",
+      "krBase": 49900,
+      "krPromo": 39900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/453754/item/krgoods_19_453754_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E453754-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/24부터 가격인하"
+      ],
+      "jpBase": 3990
+    },
+    {
+      "productId": "E422992-000",
+      "name": "크루넥T",
+      "gender": "UNISEX",
+      "priceGroup": "02",
+      "tag": "티셔츠",
+      "krBase": 19900,
+      "krPromo": 12900,
+      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/422992/item/krgoods_11_422992_3x4.jpg",
+      "url": "https://www.uniqlo.com/kr/ko/products/E422992-000",
+      "saleTypes": [
+        "가격할인"
+      ],
+      "saleText": [
+        "2026/11/03부터 가격인하"
+      ],
+      "jpBase": 1500
+    }
+  ]
+}
