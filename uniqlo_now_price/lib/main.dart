@@ -3,8 +3,12 @@ import 'dart:convert';
 import 'package:material_ui/material_ui.dart';
 import 'package:http/http.dart' as http;
 
-// 로컬 Dart 서버 (server/server.dart) 주소
-const serverUrl = 'http://localhost:8080/products';
+// 데이터 주소. 기본값은 로컬 Dart 서버 (server/server.dart).
+// Cloudflare Pages 정적 배포 시: --dart-define=DATA_URL=products.json
+const serverUrl = String.fromEnvironment(
+  'DATA_URL',
+  defaultValue: 'http://localhost:8080/products',
+);
 
 void main() {
   runApp(const UniqloNowApp());
