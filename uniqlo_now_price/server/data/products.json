@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-28T01:53:50.380215",
+  "fetchedAt": "2026-11-28T02:02:55.338642",
   "date": "2026-11-28",
   "count": 202,
   "items": [
@@ -37,7 +37,9 @@
       "saleText": [
         "2026/11/27부터 2026/12/03까지 기간한정가격"
       ],
-      "jpBase": null
+      "jpBase": 7990,
+      "jpName": "ライトダウンボリュームジャケット",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E486177-000"
     },
     {
       "productId": "E489455-000",
@@ -91,7 +93,9 @@
       "saleText": [
         "2026/11/27부터 2026/12/03까지 기간한정가격"
       ],
-      "jpBase": null
+      "jpBase": 6990,
+      "jpName": "パフテックパーカ",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E486172-000"
     },
     {
       "productId": "E488795-000",
@@ -199,7 +203,9 @@
       "saleText": [
         "2026/11/27부터 2026/12/03까지 기간한정가격"
       ],
-      "jpBase": null
+      "jpBase": 4990,
+      "jpName": "パフテックコンパクトベスト",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E470061-000"
     },
     {
       "productId": "E487263-000",
@@ -415,7 +421,9 @@
       "saleText": [
         "2026/11/27부터 2026/12/03까지 기간한정가격"
       ],
-      "jpBase": null
+      "jpBase": 5990,
+      "jpName": "パフテックパーカ",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E470118-000"
     },
     {
       "productId": "E470118-000",
@@ -1862,7 +1870,9 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpName": "ボアフリースブルゾン",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E488747-000"
     },
     {
       "productId": "E489482-000",
@@ -2330,7 +2340,9 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpName": "EZYバレルジーンズ/丈長め",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E492036-000"
     },
     {
       "productId": "E488248-000",
@@ -2420,7 +2432,9 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 7990,
+      "jpName": "ニットジャケット",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E471709-000"
     },
     {
       "productId": "E488071-000",
@@ -2656,7 +2670,9 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpName": "イージーワイドパンツ",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E487258-000"
     },
     {
       "productId": "E487258-000",
@@ -3120,7 +3136,9 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpName": "3Dモックネックセーター",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E491363-000"
     },
     {
       "productId": "E485568-000",
@@ -3246,7 +3264,9 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 4990,
+      "jpName": "バギーバレルレッグジーンズ/丈長め",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E484807-000"
     },
     {
       "productId": "E484807-000",
