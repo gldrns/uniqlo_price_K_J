@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-11-27T17:50:53.241225",
-  "date": "2026-11-27",
-  "count": 204,
+  "fetchedAt": "2026-11-28T02:08:18.880937",
+  "date": "2026-11-28",
+  "count": 202,
   "items": [
     {
       "productId": "E492545-000",
@@ -37,7 +37,9 @@
       "saleText": [
         "2026/11/27부터 2026/12/03까지 기간한정가격"
       ],
-      "jpBase": null
+      "jpBase": 7990,
+      "jpName": "ライトダウンボリュームジャケット",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E486177-000"
     },
     {
       "productId": "E489455-000",
@@ -91,7 +93,9 @@
       "saleText": [
         "2026/11/27부터 2026/12/03까지 기간한정가격"
       ],
-      "jpBase": null
+      "jpBase": 6990,
+      "jpName": "パフテックパーカ",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E486172-000"
     },
     {
       "productId": "E488795-000",
@@ -199,7 +203,9 @@
       "saleText": [
         "2026/11/27부터 2026/12/03까지 기간한정가격"
       ],
-      "jpBase": null
+      "jpBase": 4990,
+      "jpName": "パフテックコンパクトベスト",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E470061-000"
     },
     {
       "productId": "E487263-000",
@@ -415,7 +421,9 @@
       "saleText": [
         "2026/11/27부터 2026/12/03까지 기간한정가격"
       ],
-      "jpBase": null
+      "jpBase": 5990,
+      "jpName": "パフテックパーカ",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E470118-000"
     },
     {
       "productId": "E470118-000",
@@ -631,7 +639,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E492857-000",
@@ -649,7 +658,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E492577-000",
@@ -685,7 +695,9 @@
       "saleText": [
         "2026/11/27부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 12900,
+      "jpName": "シームレスダウンパーカ",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E470077-000"
     },
     {
       "productId": "E492243-000",
@@ -703,7 +715,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E492239-000",
@@ -721,7 +734,8 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E491983-000",
@@ -739,7 +753,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "パフィータッチニットボーダークルーネックセーター",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360555-000"
     },
     {
       "productId": "E491982-000",
@@ -757,7 +774,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ツイーディーオーバーサイズテーラードジャケット",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361722-000"
     },
     {
       "productId": "E491981-000",
@@ -775,7 +795,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "オーバーサイズチェックテーラードジャケット",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361542-000"
     },
     {
       "productId": "E491954-000",
@@ -793,25 +816,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
-    },
-    {
-      "productId": "E491947-000",
-      "name": "GU워시코튼박시T(긴팔)",
-      "gender": "MEN",
-      "priceGroup": "00",
-      "tag": "티셔츠",
-      "krBase": 29900,
-      "krPromo": 19900,
-      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491947/item/krgoods_56_491947_3x4.jpg",
-      "url": "https://www.uniqlo.com/kr/ko/products/E491947-000",
-      "saleTypes": [
-        "가격할인"
-      ],
-      "saleText": [
-        "2026/11/24부터 가격인하"
-      ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "3Dバレルジーンズ(丈長め)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361124-000"
     },
     {
       "productId": "E491928-000",
@@ -829,7 +837,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 5990,
+      "jpBrand": "GU",
+      "jpName": "パデッドスタンドチェックブルゾン",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361463-000"
     },
     {
       "productId": "E491927-000",
@@ -847,7 +858,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "コーデュロイジャケット",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360563-000"
     },
     {
       "productId": "E491926-000",
@@ -865,7 +879,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "マルチボーダーマフラー",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361170-000"
     },
     {
       "productId": "E491924-000",
@@ -883,7 +900,10 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットプルオーバー",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360441-000"
     },
     {
       "productId": "E491923-000",
@@ -901,7 +921,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "チェックハーフジップパーカ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361329-000"
     },
     {
       "productId": "E491919-000",
@@ -919,7 +942,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ブロードパジャマ(長袖＆ロングパンツ)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360707-000"
     },
     {
       "productId": "E491911-000",
@@ -937,7 +963,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpBrand": "GU",
+      "jpName": "ウォームパデッドスタンドブルゾン(カラーブロック)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361703-000"
     },
     {
       "productId": "E491905-000",
@@ -955,7 +984,10 @@
       "saleText": [
         "2026/10/27부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2490,
+      "jpBrand": "GU",
+      "jpName": "タックテーパードパンツ(ツイーディー)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361721-000"
     },
     {
       "productId": "E491904-000",
@@ -973,7 +1005,10 @@
       "saleText": [
         "2026/10/27부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 990,
+      "jpBrand": "GU",
+      "jpName": "チェックタックテーパードパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361474-000"
     },
     {
       "productId": "E491902-000",
@@ -991,7 +1026,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フリースコクーンフルジップパーカ(ボーダー)(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361575-000"
     },
     {
       "productId": "E491899-000",
@@ -1009,7 +1047,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フランネルシャツ(チェック3)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360391-000"
     },
     {
       "productId": "E491898-000",
@@ -1027,7 +1068,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フランネルシャツ(チェック2)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360390-000"
     },
     {
       "productId": "E491897-000",
@@ -1045,7 +1089,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "コーデュロイスーパーワイドパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360524-000"
     },
     {
       "productId": "E491834-000",
@@ -1063,7 +1110,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "ワイドスリーブボーダーセーター",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361528-000"
     },
     {
       "productId": "E491831-000",
@@ -1081,7 +1131,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpBrand": "GU",
+      "jpName": "ウォームパデッドスタンドブルゾン",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360536-000"
     },
     {
       "productId": "E491830-000",
@@ -1099,7 +1152,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 7990,
+      "jpBrand": "GU",
+      "jpName": "パデッドモッズコート",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360562-000"
     },
     {
       "productId": "E491828-000",
@@ -1117,7 +1173,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "オーバーサイズテーラードジャケット(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360539-000"
     },
     {
       "productId": "E491827-000",
@@ -1135,7 +1194,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "スムーススウェット3Dバレルパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360521-000"
     },
     {
       "productId": "E491826-000",
@@ -1153,7 +1215,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 990,
+      "jpBrand": "GU",
+      "jpName": "ナイロンリップストップユーティリティパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360422-000"
     },
     {
       "productId": "E491825-000",
@@ -1171,7 +1236,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "パフィータッチニットクルーネックセーター",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360414-000"
     },
     {
       "productId": "E491824-000",
@@ -1189,7 +1257,10 @@
       "saleText": [
         "2026/10/27부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2490,
+      "jpBrand": "GU",
+      "jpName": "タックテーパードパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360402-000"
     },
     {
       "productId": "E491822-000",
@@ -1207,7 +1278,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1490,
+      "jpBrand": "GU",
+      "jpName": "コットンワイドユーティリティパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361556-000"
     },
     {
       "productId": "E491821-000",
@@ -1225,7 +1299,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットジョガーパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360522-000"
     },
     {
       "productId": "E491820-000",
@@ -1243,7 +1320,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットハーフジッププルオーバー",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360442-000"
     },
     {
       "productId": "E491819-000",
@@ -1261,7 +1341,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットコクーンパーカ(バイカラー)(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361576-000"
     },
     {
       "productId": "E491817-000",
@@ -1279,7 +1362,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットコクーンフルジップパーカ(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360454-000"
     },
     {
       "productId": "E491815-000",
@@ -1297,7 +1383,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フリースコクーンフルジップパーカ(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361113-000"
     },
     {
       "productId": "E491813-000",
@@ -1315,7 +1404,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フェザーヤーンVネックカーディガン",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361309-000"
     },
     {
       "productId": "E491812-000",
@@ -1333,7 +1425,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E491811-000",
@@ -1351,7 +1444,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "デニムワークジャケット",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360542-000"
     },
     {
       "productId": "E491810-000",
@@ -1369,7 +1465,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpBrand": "GU",
+      "jpName": "デニムワイドカーゴパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360421-000"
     },
     {
       "productId": "E491809-000",
@@ -1387,7 +1486,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 7990,
+      "jpBrand": "GU",
+      "jpName": "コージーメルトンバルマカーンコート",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360538-000"
     },
     {
       "productId": "E491807-000",
@@ -1405,7 +1507,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "3Dバレルジーンズ(丈長め)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361124-000"
     },
     {
       "productId": "E491380-000",
@@ -1423,7 +1528,7 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": 1990
+      "jpBase": null
     },
     {
       "productId": "E491365-000",
@@ -1767,7 +1872,9 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": 3990
+      "jpBase": 3990,
+      "jpName": "ボアフリースブルゾン",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E488747-000"
     },
     {
       "productId": "E489482-000",
@@ -2235,7 +2342,9 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpName": "EZYバレルジーンズ/丈長め",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E492036-000"
     },
     {
       "productId": "E488248-000",
@@ -2325,7 +2434,9 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 7990,
+      "jpName": "ニットジャケット",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E471709-000"
     },
     {
       "productId": "E488071-000",
@@ -2561,7 +2672,9 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpName": "イージーワイドパンツ",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E487258-000"
     },
     {
       "productId": "E487258-000",
@@ -2795,7 +2908,10 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1490,
+      "jpBrand": "GU",
+      "jpName": "ウォッシャブルブークレニットシャツ(5分袖)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E359270-000"
     },
     {
       "productId": "E486746-000",
@@ -2813,7 +2929,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E486736-000",
@@ -2831,7 +2948,10 @@
       "saleText": [
         "2026/10/06부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 990,
+      "jpBrand": "GU",
+      "jpName": "ナイロンポケットシャツ(5分袖)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E359041-000"
     },
     {
       "productId": "E486734-000",
@@ -2849,7 +2969,8 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E486723-000",
@@ -2867,7 +2988,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1290,
+      "jpBrand": "GU",
+      "jpName": "ジョーツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E359238-000"
     },
     {
       "productId": "E486722-000",
@@ -2885,7 +3009,10 @@
       "saleText": [
         "2026/10/27부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 990,
+      "jpBrand": "GU",
+      "jpName": "バレルレッグジーンズ(丈長め80.0cm)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E353258-000"
     },
     {
       "productId": "E486612-000",
@@ -2893,7 +3020,7 @@
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "셔츠",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486612/item/krgoods_08_486612_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E486612-000",
@@ -2911,7 +3038,7 @@
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "셔츠",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486610/item/krgoods_15_486610_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E486610-000",
@@ -2929,7 +3056,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "셔츠",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486602/item/krgoods_55_486602_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E486602-000",
@@ -2947,7 +3074,7 @@
       "gender": "MEN",
       "priceGroup": "01",
       "tag": "셔츠",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486600/item/krgoods_24_486600_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E486600-000",
@@ -2965,7 +3092,7 @@
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "니트",
-      "krBase": 59900,
+      "krBase": 49900,
       "krPromo": 49900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486087/item/krgoods_31_486087_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E486087-000",
@@ -2983,7 +3110,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "니트",
-      "krBase": 49900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486086/item/krgoods_12_486086_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E486086-000",
@@ -3001,7 +3128,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "니트",
-      "krBase": 49900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486082/item/krgoods_09_486082_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E486082-000",
@@ -3011,7 +3138,9 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpName": "3Dモックネックセーター",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E491363-000"
     },
     {
       "productId": "E485568-000",
@@ -3019,7 +3148,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "티셔츠",
-      "krBase": 29900,
+      "krBase": 19900,
       "krPromo": 19900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485568/item/krgoods_56_485568_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E485568-000",
@@ -3037,7 +3166,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "티셔츠",
-      "krBase": 29900,
+      "krBase": 19900,
       "krPromo": 19900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485566/item/krgoods_12_485566_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E485566-000",
@@ -3055,7 +3184,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "티셔츠",
-      "krBase": 12900,
+      "krBase": 9900,
       "krPromo": 9900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485312/item/krgoods_09_485312_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E485312-000",
@@ -3073,7 +3202,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "티셔츠",
-      "krBase": 12900,
+      "krBase": 9900,
       "krPromo": 9900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485308/item/krgoods_66_485308_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E485308-000",
@@ -3086,30 +3215,12 @@
       "jpBase": null
     },
     {
-      "productId": "E485071-000",
-      "name": "NY POP ART UT(그래픽T)Basquiat",
-      "gender": "MEN",
-      "priceGroup": "00",
-      "tag": "티셔츠",
-      "krBase": 12900,
-      "krPromo": 9900,
-      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485071/item/krgoods_57_485071_3x4.jpg",
-      "url": "https://www.uniqlo.com/kr/ko/products/E485071-000",
-      "saleTypes": [
-        "가격할인"
-      ],
-      "saleText": [
-        "2026/09/29부터 가격인하"
-      ],
-      "jpBase": null
-    },
-    {
       "productId": "E485059-000",
       "name": "PEANUTS UT(그래픽T)B 링거",
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "티셔츠",
-      "krBase": 19900,
+      "krBase": 9900,
       "krPromo": 9900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485059/item/krgoods_69_485059_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E485059-000",
@@ -3127,7 +3238,7 @@
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "티셔츠",
-      "krBase": 19900,
+      "krBase": 9900,
       "krPromo": 9900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485058/item/krgoods_30_485058_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E485058-000",
@@ -3145,7 +3256,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "바지",
-      "krBase": 59900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484807001/item/krgoods_64_484807001_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E484807-001",
@@ -3155,7 +3266,9 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 4990,
+      "jpName": "バギーバレルレッグジーンズ/丈長め",
+      "jpUrl": "https://www.uniqlo.com/jp/ja/products/E484807-000"
     },
     {
       "productId": "E484807-000",
@@ -3163,7 +3276,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "바지",
-      "krBase": 59900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484807/item/krgoods_67_484807_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E484807-000",
@@ -3183,7 +3296,7 @@
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "티셔츠",
-      "krBase": 12900,
+      "krBase": 9900,
       "krPromo": 9900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484777/item/krgoods_00_484777_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E484777-000",
@@ -3201,7 +3314,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "티셔츠",
-      "krBase": 12900,
+      "krBase": 9900,
       "krPromo": 9900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484760/item/krgoods_09_484760_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E484760-000",
@@ -3219,7 +3332,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "아우터",
-      "krBase": 89900,
+      "krBase": 69900,
       "krPromo": 69900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484610/item/krgoods_69_484610_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E484610-000",
@@ -3237,7 +3350,7 @@
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "신발",
-      "krBase": 49900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484330/item/goods_32_484330_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E484330-000",
@@ -3255,7 +3368,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "아우터",
-      "krBase": 59900,
+      "krBase": 49900,
       "krPromo": 49900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484249/item/krgoods_57_484249_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E484249-000",
@@ -3273,7 +3386,7 @@
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "셔츠",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484244/item/krgoods_00_484244_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E484244-000",
@@ -3291,7 +3404,7 @@
       "gender": "MEN",
       "priceGroup": "01",
       "tag": "티셔츠",
-      "krBase": 19900,
+      "krBase": 12900,
       "krPromo": 12900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/483972/item/krgoods_66_483972_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E483972-000",
@@ -3309,7 +3422,7 @@
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "바지",
-      "krBase": 29900,
+      "krBase": 19900,
       "krPromo": 19900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482883/item/krgoods_35_482883_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E482883-000",
@@ -3327,7 +3440,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "바지",
-      "krBase": 49900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482868/item/krgoods_67_482868_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E482868-000",
@@ -3345,7 +3458,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "티셔츠",
-      "krBase": 12900,
+      "krBase": 9900,
       "krPromo": 9900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482770/item/krgoods_00_482770_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E482770-000",
@@ -3363,7 +3476,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "니트",
-      "krBase": 49900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482321/item/krgoods_27_482321_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E482321-000",
@@ -3381,7 +3494,7 @@
       "gender": "MEN",
       "priceGroup": "01",
       "tag": "티셔츠",
-      "krBase": 19900,
+      "krBase": 12900,
       "krPromo": 12900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482305/item/krgoods_03_482305_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E482305-000",
@@ -3399,7 +3512,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "바지",
-      "krBase": 12900,
+      "krBase": 9900,
       "krPromo": 9900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482260/item/krgoods_09_482260_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E482260-000",
@@ -3417,7 +3530,7 @@
       "gender": "UNISEX",
       "priceGroup": "00",
       "tag": "니트",
-      "krBase": 59900,
+      "krBase": 49900,
       "krPromo": 49900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481731/item/krgoods_15_481731_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E481731-000",
@@ -3437,7 +3550,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "바지",
-      "krBase": 9900,
+      "krBase": 7900,
       "krPromo": 7900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481582/item/krgoods_57_481582_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E481582-000",
@@ -3455,7 +3568,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "셔츠",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481224/item/krgoods_34_481224_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E481224-000",
@@ -3473,7 +3586,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "바지",
-      "krBase": 49900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481030/item/krgoods_35_481030_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E481030-000",
@@ -3491,7 +3604,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "니트",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481004/item/krgoods_01_481004_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E481004-000",
@@ -3509,7 +3622,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "아우터",
-      "krBase": 69900,
+      "krBase": 59900,
       "krPromo": 59900,
       "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479755/item/goods_31_479755_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E479755-000",
@@ -3527,7 +3640,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "아우터",
-      "krBase": 199000,
+      "krBase": 169000,
       "krPromo": 169000,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/478285/item/krgoods_36_478285_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E478285-000",
@@ -3545,7 +3658,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "바지",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/477345/item/krgoods_39_477345_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E477345-000",
@@ -3563,7 +3676,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "니트",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/475053/item/krgoods_14_475053_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E475053-000",
@@ -3581,7 +3694,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "바지",
-      "krBase": 49900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/470549/item/krgoods_35_470549_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E470549-000",
@@ -3599,7 +3712,7 @@
       "gender": "MEN",
       "priceGroup": "00",
       "tag": "바지",
-      "krBase": 49900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/470542/item/krgoods_63_470542_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E470542-000",
@@ -3617,7 +3730,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "셔츠",
-      "krBase": 39900,
+      "krBase": 29900,
       "krPromo": 29900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/470187/item/krgoods_38_470187_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E470187-000",
@@ -3635,7 +3748,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "티셔츠",
-      "krBase": 19900,
+      "krBase": 12900,
       "krPromo": 12900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/465185/item/krgoods_42_465185_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E465185-000",
@@ -3653,7 +3766,7 @@
       "gender": "UNISEX",
       "priceGroup": "01",
       "tag": "니트",
-      "krBase": 49900,
+      "krBase": 39900,
       "krPromo": 39900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/453754/item/krgoods_19_453754_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E453754-000",
@@ -3671,7 +3784,7 @@
       "gender": "UNISEX",
       "priceGroup": "02",
       "tag": "티셔츠",
-      "krBase": 19900,
+      "krBase": 12900,
       "krPromo": 12900,
       "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/422992/item/krgoods_11_422992_3x4.jpg",
       "url": "https://www.uniqlo.com/kr/ko/products/E422992-000",

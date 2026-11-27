@@ -3,8 +3,12 @@ import 'dart:convert';
 import 'package:material_ui/material_ui.dart';
 import 'package:http/http.dart' as http;
 
-// 로컬 Dart 서버 (server/server.dart) 주소
-const serverUrl = 'http://localhost:8080/products';
+// 데이터 주소. 기본값은 로컬 Dart 서버 (server/server.dart).
+// Cloudflare Pages 정적 배포 시: --dart-define=DATA_URL=products.json
+const serverUrl = String.fromEnvironment(
+  'DATA_URL',
+  defaultValue: 'http://localhost:8080/products',
+);
 
 void main() {
   runApp(const UniqloNowApp());
@@ -34,13 +38,15 @@ class Product {
         krBase = j['krBase'],
         krPromo = j['krPromo'],
         jpBase = j['jpBase'],
+        jpBrand = j['jpBrand'],
+        jpName = j['jpName'],
         image = j['image'],
         saleTypes = List<String>.from(j['saleTypes']),
         saleText = List<String>.from(j['saleText']);
 
   final String id, name, gender, tag;
   final int? krBase, krPromo, jpBase;
-  final String? image;
+  final String? image, jpBrand, jpName;
   final List<String> saleTypes, saleText;
 }
 
@@ -54,6 +60,26 @@ class ProductPage extends StatefulWidget {
 class _ProductPageState extends State<ProductPage> {
   List<Product> _items = [];
   String? _selectedTag; // null = 전체
+  final _searchCtrl = TextEditingController();
+  String _query = '';
+
+  @override
+  void dispose() {
+    _searchCtrl.dispose();
+    super.dispose();
+  }
+
+  /// 공백 무시, 대소문자 무시
+  static String _norm(String s) => s.replaceAll(RegExp(r'\s'), '').toLowerCase();
+
+  /// 상품명(한국/일본) 또는 상품번호(E492179-000, 492179 모두 가능)에 검색어가 들어 있으면 true
+  bool _matches(Product p) {
+    final q = _norm(_query);
+    if (q.isEmpty) return true;
+    return _norm(p.name).contains(q) ||
+        _norm(p.id).contains(q) ||
+        (p.jpName != null && _norm(p.jpName!).contains(q));
+  }
   String? _info;
   String? _error;
   bool _loading = false;
@@ -82,12 +108,14 @@ class _ProductPageState extends State<ProductPage> {
 
   @override
   Widget build(BuildContext context) {
+    // 검색어로 먼저 거르고, 카테고리 개수도 검색 결과 기준으로 센다
+    final searched = _items.where(_matches).toList();
     final tags = <String, int>{};
-    for (final p in _items) {
+    for (final p in searched) {
       tags[p.tag] = (tags[p.tag] ?? 0) + 1;
     }
     final sortedTags = tags.keys.toList()..sort((a, b) => tags[b]!.compareTo(tags[a]!));
-    final shown = _selectedTag == null ? _items : _items.where((p) => p.tag == _selectedTag).toList();
+    final shown = _selectedTag == null ? searched : searched.where((p) => p.tag == _selectedTag).toList();
 
     return Scaffold(
       appBar: AppBar(
@@ -125,16 +153,51 @@ class _ProductPageState extends State<ProductPage> {
               child: Text(_error!, style: const TextStyle(color: Colors.red)),
             ),
           if (_items.isNotEmpty)
+            Padding(
+              padding: const EdgeInsets.fromLTRB(12, 0, 12, 8),
+              child: TextField(
+                controller: _searchCtrl,
+                onChanged: (v) => setState(() {
+                  _query = v;
+                  // 검색 결과에 없는 카테고리가 선택돼 있으면 전체로
+                  if (_selectedTag != null && !_items.any((p) => p.tag == _selectedTag && _matches(p))) {
+                    _selectedTag = null;
+                  }
+                }),
+                decoration: InputDecoration(
+                  isDense: true,
+                  prefixIcon: const Icon(Icons.search),
+                  hintText: '상품명 또는 상품번호로 검색 (예: 히트텍, 492179)',
+                  border: const OutlineInputBorder(),
+                  suffixIcon: _query.isEmpty
+                      ? null
+                      : IconButton(
+                          tooltip: '지우기',
+                          icon: const Icon(Icons.clear),
+                          onPressed: () => setState(() {
+                            _searchCtrl.clear();
+                            _query = '';
+                          }),
+                        ),
+                ),
+              ),
+            ),
+          if (_items.isNotEmpty)
             SizedBox(
               height: 48,
               child: ListView(
                 scrollDirection: Axis.horizontal,
                 padding: const EdgeInsets.symmetric(horizontal: 12),
                 children: [
-                  _tagChip('전체', _items.length, null),
+                  _tagChip('전체', searched.length, null),
                   for (final t in sortedTags) _tagChip(t, tags[t]!, t),
                 ],
               ),
+            ),
+          if (_items.isNotEmpty && shown.isEmpty)
+            const Padding(
+              padding: EdgeInsets.all(24),
+              child: Text('검색 결과가 없어요.'),
             ),
           Expanded(
             child: ListView.separated(
@@ -188,6 +251,7 @@ class _ProductTile extends StatelessWidget {
               for (final s in p.saleTypes) _badge(s, s == '이번주할인' ? Colors.red : Colors.orange),
               _badge(p.tag, Colors.blueGrey),
               _badge(p.gender, Colors.grey),
+              Text(p.id, style: const TextStyle(fontSize: 11, color: Colors.grey)),
             ],
           ),
           const SizedBox(height: 4),
@@ -202,7 +266,8 @@ class _ProductTile extends StatelessWidget {
                   style: const TextStyle(fontWeight: FontWeight.bold, color: Colors.black)),
             ],
           ),
-          Text('일본 정가 ${p.jpBase != null ? yen(p.jpBase!) : '일본 미판매/정보 없음'}'),
+          Text('일본${p.jpBrand == 'GU' ? ' GU' : ''} 정가 '
+              '${p.jpBase != null ? yen(p.jpBase!) : '일본 미판매/정보 없음'}'),
           if (p.saleText.isNotEmpty) Text(p.saleText.join(' · '), style: const TextStyle(fontSize: 11)),
         ],
       ),

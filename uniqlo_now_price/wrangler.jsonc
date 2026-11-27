@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers 정적 에셋 배포 (Flutter 웹 빌드 결과물)
+  "name": "uniqlo-now-price",
+  "compatibility_date": "2026-11-27",
+  "assets": {
+    "directory": "./build/web",
+    "not_found_handling": "single-page-application"
+  }
+}

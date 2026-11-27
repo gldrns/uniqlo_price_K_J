@@ -7,6 +7,9 @@ import 'dart:io';
 
 const krBase = 'https://www.uniqlo.com/kr/api/commerce/v5/ko/products';
 const jpBase = 'https://www.uniqlo.com/jp/api/commerce/v5/ja/products';
+const guJpBase = 'https://www.gu-global.com/jp/api/commerce/v5/ja/products';
+// GU 일본 사이트 카테고리 (2257 = MEN, 2256 = WOMEN; UNISEX는 양쪽에 섞여 있음)
+const guJpPaths = ['2257', '2256'];
 const port = 8080;
 
 // 이번주할인 = limitedOffer(기간한정가격), 가격할인 = discount(가격인하)
@@ -97,13 +100,15 @@ Future<void> runPool<T>(List<T> list, int n, Future<void> Function(T) task) asyn
 }
 
 /// 일본 상품을 상품번호로 찾아 priceGroup을 얻은 뒤 일본 정가를 조회
-Future<Map<String, int>> fetchJpPrices(List<String> ids) async {
+/// names를 넘기면 찾은 일본 상품명도 채워 준다
+Future<Map<String, int>> fetchJpPrices(List<String> ids, {Map<String, String>? names}) async {
   final groups = <String, String>{};
   for (var i = 0; i < ids.length; i += 30) {
     final chunk = ids.sublist(i, i + 30 > ids.length ? ids.length : i + 30);
     final j = await getJson('$jpBase?productIds=${chunk.join(',')}&limit=50');
     for (final it in (j['result']['items'] as List)) {
       groups[it['productId'] as String] = it['priceGroup'] as String;
+      names?[it['productId'] as String] = it['name'] as String;
     }
   }
   final prices = <String, int>{};
@@ -112,6 +117,286 @@ Future<Map<String, int>> fetchJpPrices(List<String> ids) async {
     if (p.base != null) prices[id] = p.base!;
   });
   return prices;
+}
+
+// ---------------------------------------------------------------------------
+// GU 상품: 한국 유니클로 사이트의 GU 상품(이름이 'GU'로 시작)은 한국 전용 상품번호라
+// 일본 GU 상품번호와 연결되지 않는다. 그래서 일본 GU 상품 이름(가타카나)을 한글로
+// 바꿔 한국 상품명과 비교하고, 색상 코드 겹침을 더해 가장 비슷한 상품을 고른다.
+// ---------------------------------------------------------------------------
+
+bool isGu(String name) => name.startsWith('GU');
+
+// 자주 쓰는 일본어 외래어 → 한국 유니클로 표기 (긴 단어부터 바꾼다)
+const guWordMap = <String, String>{
+  'ジャケット': '재킷', 'スウェット': '스웨트', 'パンツ': '팬츠', 'セーター': '스웨터',
+  'カーディガン': '가디건', 'パーカ': '파카', 'ニット': '니트', 'シャツ': '셔츠',
+  'ブルゾン': '블루종', 'コート': '코트', 'ジーンズ': '진', 'フリース': '후리스',
+  'ワイド': '와이드', 'ストレート': '스트레이트', 'トラック': '트랙', 'ジップ': '집',
+  'フルジップ': '풀집', 'ハーフジップ': '하프집', 'コクーン': '코쿤', 'ヘビーウェイト': '헤비웨이트',
+  'バレル': '배럴', 'クルーネック': '크루넥', 'ボーダー': '스트라이프', 'ストライプ': '스트라이프',
+  'チェック': '체크', 'テーラード': '테일러드', 'オーバーサイズ': '오버사이즈', 'コーデュロイ': '코듀로이',
+  'パデッド': '패디드', 'スタンド': '스탠드', 'ウォーム': '웜', 'タック': '턱', 'テーパード': '테이퍼드',
+  'フランネル': '플란넬', 'パジャマ': '파자마', 'ブロード': '브로드', 'マフラー': '스카프',
+  'スカーフ': '스카프', 'マルチ': '멀티', 'ユーティリティ': '유틸리티', 'カーゴ': '카고',
+  'デニム': '데님', 'ナイロン': '나일론', 'リップストップ': '립스탑', 'フェイクレザー': '페이크레더',
+  'フェザーヤーン': '페더얀', 'Vネック': '브이넥', 'スムース': '스무스', 'メルトン': '멜톤',
+  'バルマカーン': '발마칸', 'モッズ': '모즈', 'ワーク': '워크', 'ウォッシャブル': '워셔블',
+  'ブークレ': '부클레', 'ポロ': '폴로', 'ポケット': '포켓', 'イージーケア': '이지케어',
+  'ショーツ': '쇼츠', 'ジョーツ': '조츠', 'ジョガー': '조거', 'プルオーバー': '풀오버',
+  'フーディ': '후디', 'バイカラー': '바이컬러', 'パフィータッチ': '퍼피터치', 'ボクシー': '박시',
+  'ウォッシュ': '워시', 'コットン': '코튼', 'スーパー': '슈퍼', 'ワイドスリーブ': '와이드슬리브',
+  'カラーブロック': '컬러블록', 'コージー': '코지', '長袖': '긴팔', '半袖': '반팔', '柄': '패턴',
+  // 유니클로 상품명용 (영어 표기 포함)
+  'パフテック': 'PUFFTECH', 'ライト': '라이트', 'ダウン': '다운', 'ボリューム': '볼륨',
+  'ベスト': '베스트', 'シームレス': '심리스', 'オックスフォード': '옥스포드', 'ボア': '보아',
+  'ショート': '쇼트', 'イージー': '이지', 'タートルネック': '터틀넥', 'ロング': '롱',
+  'モックネック': '모크넥', 'ドライ': '드라이', 'ピケ': '피케', 'ナロー': '내로우',
+  'リネンブレンド': '리넨블렌드', 'チノ': '치노', 'バギー': '배기', 'レッグ': '레그',
+  'ボックス': '박스', 'リンガー': '링거', 'グラフィック': '그래픽', 'プリント': '프린트',
+};
+final _guWords = guWordMap.keys.toList()..sort((a, b) => b.length - a.length);
+
+// 반대 방향(한국 표기 → 가타카나): 일본 사이트 검색어 만들기용
+final _krToJa = <String, String>{
+  for (final e in guWordMap.entries) e.value: e.key,
+  '스트라이프': 'ストライプ', // ボーダー보다 유니클로에서 흔한 표기
+  '재킷': 'ジャケット', '자켓': 'ジャケット',
+};
+final _krWords = _krToJa.keys.toList()..sort((a, b) => b.length - a.length);
+
+/// 한국 상품명 → 일본 검색어 토큰 (사전에 있는 단어만, 영어는 그대로)
+List<String> toJaTokens(String krName) {
+  final s = normName(krName);
+  final tokens = <String>[];
+  var i = 0;
+  while (i < s.length) {
+    final w = _krWords.firstWhere((w) => s.startsWith(w, i), orElse: () => '');
+    if (w.isNotEmpty) {
+      tokens.add(_krToJa[w]!);
+      i += w.length;
+      continue;
+    }
+    final eng = RegExp(r'[A-Z0-9]+').matchAsPrefix(s, i);
+    if (eng != null) {
+      tokens.add(eng[0]!);
+      i = eng.end;
+      continue;
+    }
+    i++; // 사전에 없는 한글은 건너뛴다
+  }
+  return tokens;
+}
+
+// 나머지 가타카나는 한 글자씩 대충 한글로
+const _kana = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲ'
+    'ガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポンヴ';
+const _hangul = '아이우에오카키쿠케코사시스세소타치츠테토나니누네노하히후헤호마미무메모야유요라리루레로와오'
+    '가기구게고자지즈제조다지즈데도바비부베보파피푸페포ㄴ부';
+
+String kanaToHangul(String s) {
+  for (final w in _guWords) {
+    s = s.replaceAll(w, guWordMap[w]!);
+  }
+  final out = StringBuffer();
+  for (final ch in s.split('')) {
+    final i = _kana.indexOf(ch);
+    out.write(i >= 0 ? _hangul[i] : ch);
+  }
+  return out.toString();
+}
+
+/// 비교용: 'GU' 접두어, 괄호 내용, 공백·구두점 제거
+String normName(String s) => s
+    .replaceFirst(RegExp(r'^GU'), '')
+    .replaceAll(RegExp(r'\(.*?\)|（.*?）|[\s·・,]'), '')
+    .toUpperCase();
+
+const _cho = 'ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ';
+
+/// 한글 음절 → 초성 (모음 표기 차이를 흡수하려고)
+String choseong(String s) => s.runes.map((r) {
+      final k = r - 0xAC00;
+      return (k >= 0 && k < 11172) ? _cho[k ~/ 588] : String.fromCharCode(r);
+    }).join();
+
+double dice(String a, String b) {
+  Set<String> grams(String s) => {for (var i = 0; i < s.length - 1; i++) s.substring(i, i + 2)};
+  final ga = grams(a), gb = grams(b);
+  if (ga.isEmpty || gb.isEmpty) return 0;
+  return 2 * ga.intersection(gb).length / (ga.length + gb.length);
+}
+
+double jaccard(Set<String> a, Set<String> b) {
+  final union = a.union(b).length;
+  return union == 0 ? 0 : a.intersection(b).length / union;
+}
+
+Set<String> colorCodes(Map<String, dynamic>? it) =>
+    {for (final c in (it?['colors'] as List? ?? [])) c['displayCode'] as String};
+
+/// 한국 상품명/색상과 가장 비슷한 일본 상품을 고른다. 확실하지 않으면 null.
+Map<String, dynamic>? pickBestMatch(
+    String krName, Map<String, dynamic>? krItem, List<Map<String, dynamic>> candidates) {
+  final kn = normName(krName);
+  final kc = colorCodes(krItem);
+  Map<String, dynamic>? best;
+  var bestScore = -1.0, bestName = 0.0, bestExact = 0.0;
+  for (final c in candidates) {
+    final cn = normName(kanaToHangul(c['name'] as String));
+    final exact = dice(kn, cn);
+    final nameSim = [exact, dice(choseong(kn), choseong(cn)) * 0.8].reduce((a, b) => a > b ? a : b);
+    final score = nameSim * 0.7 + jaccard(kc, colorCodes(c)) * 0.3;
+    // 동점이면 한글 그대로 더 비슷한 쪽, 그래도 같으면 이름이 짧은 쪽(丈長め 같은 변형이 아닌 기본 상품)
+    final better = score > bestScore ||
+        (score == bestScore &&
+            (exact > bestExact ||
+                (exact == bestExact && (c['name'] as String).length < (best!['name'] as String).length)));
+    if (better) {
+      best = c;
+      bestScore = score;
+      bestName = nameSim;
+      bestExact = exact;
+    }
+  }
+  // 확실한 것만: 종합 점수가 높거나, 이름이 거의 같을 때
+  return (best != null && (bestScore >= 0.65 || bestName >= 0.95)) ? best : null;
+}
+
+/// 일본 GU 남성/유니섹스 상품 전체 목록
+Future<List<Map<String, dynamic>>> fetchGuJpCatalog() async {
+  final byId = <String, Map<String, dynamic>>{};
+  for (final path in guJpPaths) {
+    var offset = 0;
+    while (true) {
+      final j = await getJson('$guJpBase?path=$path&limit=100&offset=$offset');
+      final page = (j['result']['items'] as List).cast<Map<String, dynamic>>();
+      for (final it in page) {
+        if (targetGenders.contains(it['genderCategory'])) byId[it['productId']] = it;
+      }
+      offset += page.length;
+      if (page.isEmpty || offset >= (j['result']['pagination']['total'] as int)) break;
+    }
+  }
+  return byId.values.toList();
+}
+
+/// 한국 GU 상품들 → 일본 GU 상품 매칭 후 일본 정가 조회
+/// krItems: 한국 목록 API 원본(색상 정보용), 키는 상품번호
+Future<Map<String, ({int price, String name, String url})>> fetchGuJpPrices(
+    List<Map<String, dynamic>> products, Map<String, Map<String, dynamic>> krItems) async {
+  final catalog = await fetchGuJpCatalog();
+  final matched = <String, Map<String, dynamic>>{};
+  for (final p in products) {
+    final best = pickBestMatch(p['name'] as String, krItems[p['productId']], catalog);
+    if (best != null) {
+      matched[p['productId'] as String] = best;
+    } else {
+      stdout.writeln('GU 일본 상품 못 찾음: ${p['name']}');
+    }
+  }
+  final prices = <String, ({int price, String name, String url})>{};
+  await runPool(matched.keys.toList(), 6, (krId) async {
+    final g = matched[krId]!;
+    final pr = await fetchPrice(guJpBase, g['productId'], g['priceGroup']);
+    if (pr.base != null) {
+      prices[krId] = (
+        price: pr.base!,
+        name: g['name'] as String,
+        url: 'https://www.gu-global.com/jp/ja/products/${g['productId']}',
+      );
+    }
+  });
+  return prices;
+}
+
+/// 한국과 일본에서 상품명이 다른 경우: 일본식 이름(한글 표기)으로 바꿔서 검색·비교한다
+/// 한국에서 '재킷'인 상품이 일본에선 'パーカ'(파카)인 경우가 있다
+/// (예: 심리스다운재킷 → シームレスダウンパーカ)
+String jaStyleName(String krName) => krName.replaceAll('재킷', '파카');
+
+/// 한국 상품명으로 일본 유니클로를 검색해 가장 비슷한 상품을 고른다. 못 찾으면 null.
+Future<Map<String, dynamic>?> searchUqJp(String name, Map<String, dynamic>? krItem) async {
+  final tokens = toJaTokens(name);
+  // 전체 검색어로 먼저, 결과가 없으면 뒤 단어부터 하나씩 빼며 다시
+  for (var n = tokens.length; n > 0; n--) {
+    final q = Uri.encodeQueryComponent(tokens.take(n).join(' '));
+    try {
+      final j = await getJson('$jpBase?q=$q&limit=30');
+      final cands = [
+        for (final it in (j['result']['items'] as List).cast<Map<String, dynamic>>())
+          if (targetGenders.contains(it['genderCategory'])) it,
+      ];
+      if (cands.isEmpty) continue;
+      final best = pickBestMatch(name, krItem, cands);
+      if (best != null) return best;
+      // 이름 점수가 모자라도, 검색어 단어를 전부 포함하는 상품이 딱 하나면 그것
+      // (예: PUFFTECH베스트 → パフテックコンパクトベスト)
+      if (n == tokens.length) {
+        final all = cands
+            .where((c) => tokens.every((t) => (c['name'] as String).toUpperCase().contains(t)))
+            .toList();
+        if (all.length == 1) return all.first;
+      }
+      return null; // 검색 결과가 있었으면 더 줄이지 않는다
+    } catch (e) {
+      stderr.writeln('일본 검색 실패 $name: $e');
+      return null;
+    }
+  }
+  return null;
+}
+
+/// 상품번호로 일본 유니클로에서 못 찾은 상품을 다시 찾는다.
+/// 1) 끝번호만 다른 같은 상품 (E470118-001 → E470118-000)
+/// 2) 상품명을 가타카나로 바꿔 일본 유니클로에서 검색 → 이름+색상으로 가장 비슷한 것
+Future<Map<String, ({int price, String name, String url})>> fetchUqJpByName(
+    List<Map<String, dynamic>> products, Map<String, Map<String, dynamic>> krItems) async {
+  final result = <String, ({int price, String name, String url})>{};
+
+  final alt = <String, String>{}; // 한국 번호 → 일본 -000 번호
+  for (final p in products) {
+    final id = p['productId'] as String;
+    if (!id.endsWith('-000')) alt[id] = id.replaceFirst(RegExp(r'-\d{3}$'), '-000');
+  }
+  if (alt.isNotEmpty) {
+    final names = <String, String>{};
+    final jp = await fetchJpPrices(alt.values.toSet().toList(), names: names);
+    alt.forEach((kr, ja) {
+      if (jp[ja] != null) {
+        result[kr] = (price: jp[ja]!, name: names[ja] ?? ja, url: 'https://www.uniqlo.com/jp/ja/products/$ja');
+      }
+    });
+  }
+
+  for (final p in products) {
+    final id = p['productId'] as String;
+    if (result.containsKey(id)) continue;
+    final original = p['name'] as String;
+    // 원래 이름으로 먼저, 못 찾으면 일본식 이름으로 다시 (예: 재킷 → 파카)
+    final names = <String>{
+      original,
+      jaStyleName(original),
+    };
+    Map<String, dynamic>? best;
+    for (final name in names) {
+      best = await searchUqJp(name, krItems[id]);
+      if (best != null) break;
+    }
+    if (best == null) {
+      stdout.writeln('일본 유니클로 상품 못 찾음: ${p['name']}');
+      continue;
+    }
+    final pr = await fetchPrice(jpBase, best['productId'], best['priceGroup']);
+    if (pr.base != null) {
+      result[id] = (
+        price: pr.base!,
+        name: best['name'] as String,
+        url: 'https://www.uniqlo.com/jp/ja/products/${best['productId']}',
+      );
+    }
+  }
+  return result;
 }
 
 String? imageOf(Map<String, dynamic> it) {
@@ -125,10 +410,12 @@ String? imageOf(Map<String, dynamic> it) {
 
 Future<Map<String, dynamic>> collect() async {
   final byId = <String, Map<String, dynamic>>{};
+  final krRaw = <String, Map<String, dynamic>>{}; // 한국 목록 원본 (GU 매칭 시 색상 비교용)
   for (final flag in flagCodes.keys) {
     for (final it in await fetchKr(flag)) {
       if (!targetGenders.contains(it['genderCategory'])) continue;
       final id = it['productId'] as String;
+      krRaw[id] = it;
       final p = byId.putIfAbsent(id, () {
         final name = it['name'] as String;
         return {
@@ -158,9 +445,33 @@ Future<Map<String, dynamic>> collect() async {
     if (kr.base != null) p['krBase'] = kr.base;
     if (kr.promo != null) p['krPromo'] = kr.promo;
   });
-  final jp = await fetchJpPrices(byId.keys.toList());
-  for (final p in byId.values) {
+  // 유니클로 상품은 상품번호로 일본 유니클로에서, GU 상품은 일본 GU에서 이름으로 찾는다
+  final uq = byId.values.where((p) => !isGu(p['name'])).toList();
+  final gu = byId.values.where((p) => isGu(p['name'])).toList();
+  final jp = await fetchJpPrices([for (final p in uq) p['productId'] as String]);
+  for (final p in uq) {
     p['jpBase'] = jp[p['productId']]; // 일본에 없으면 null
+  }
+  // 상품번호로 못 찾은 것은 가타카나 이름 검색으로 다시
+  final missing = uq.where((p) => p['jpBase'] == null).toList();
+  final byName = await fetchUqJpByName(missing, krRaw);
+  for (final p in missing) {
+    final m = byName[p['productId']];
+    if (m != null) {
+      p['jpBase'] = m.price;
+      p['jpName'] = m.name;
+      p['jpUrl'] = m.url;
+    }
+  }
+  final guJp = await fetchGuJpPrices(gu, krRaw);
+  for (final p in gu) {
+    final m = guJp[p['productId']];
+    p['jpBase'] = m?.price;
+    p['jpBrand'] = 'GU';
+    if (m != null) {
+      p['jpName'] = m.name;
+      p['jpUrl'] = m.url;
+    }
   }
   final now = DateTime.now();
   return {
