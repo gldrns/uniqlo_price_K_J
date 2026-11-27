@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-11-27T17:50:53.241225",
-  "date": "2026-11-27",
-  "count": 204,
+  "fetchedAt": "2026-11-28T01:53:50.380215",
+  "date": "2026-11-28",
+  "count": 202,
   "items": [
     {
       "productId": "E492545-000",
@@ -631,7 +631,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E492857-000",
@@ -649,7 +650,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E492577-000",
@@ -703,7 +705,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E492239-000",
@@ -721,7 +724,8 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E491983-000",
@@ -739,7 +743,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "パフィータッチニットボーダークルーネックセーター",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360555-000"
     },
     {
       "productId": "E491982-000",
@@ -757,7 +764,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ツイーディーオーバーサイズテーラードジャケット",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361722-000"
     },
     {
       "productId": "E491981-000",
@@ -775,7 +785,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "オーバーサイズチェックテーラードジャケット",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361542-000"
     },
     {
       "productId": "E491954-000",
@@ -793,25 +806,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
-    },
-    {
-      "productId": "E491947-000",
-      "name": "GU워시코튼박시T(긴팔)",
-      "gender": "MEN",
-      "priceGroup": "00",
-      "tag": "티셔츠",
-      "krBase": 29900,
-      "krPromo": 19900,
-      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491947/item/krgoods_56_491947_3x4.jpg",
-      "url": "https://www.uniqlo.com/kr/ko/products/E491947-000",
-      "saleTypes": [
-        "가격할인"
-      ],
-      "saleText": [
-        "2026/11/24부터 가격인하"
-      ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "3Dバレルジーンズ(丈長め)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361124-000"
     },
     {
       "productId": "E491928-000",
@@ -829,7 +827,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 5990,
+      "jpBrand": "GU",
+      "jpName": "パデッドスタンドチェックブルゾン",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361463-000"
     },
     {
       "productId": "E491927-000",
@@ -847,7 +848,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "コーデュロイジャケット",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360563-000"
     },
     {
       "productId": "E491926-000",
@@ -865,7 +869,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "マルチボーダーマフラー",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361170-000"
     },
     {
       "productId": "E491924-000",
@@ -883,7 +890,10 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットプルオーバー",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360441-000"
     },
     {
       "productId": "E491923-000",
@@ -901,7 +911,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "チェックハーフジップパーカ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361329-000"
     },
     {
       "productId": "E491919-000",
@@ -919,7 +932,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ブロードパジャマ(長袖＆ロングパンツ)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360707-000"
     },
     {
       "productId": "E491911-000",
@@ -937,7 +953,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpBrand": "GU",
+      "jpName": "ウォームパデッドスタンドブルゾン(カラーブロック)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361703-000"
     },
     {
       "productId": "E491905-000",
@@ -955,7 +974,10 @@
       "saleText": [
         "2026/10/27부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2490,
+      "jpBrand": "GU",
+      "jpName": "タックテーパードパンツ(ツイーディー)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361721-000"
     },
     {
       "productId": "E491904-000",
@@ -973,7 +995,10 @@
       "saleText": [
         "2026/10/27부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 990,
+      "jpBrand": "GU",
+      "jpName": "チェックタックテーパードパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361474-000"
     },
     {
       "productId": "E491902-000",
@@ -991,7 +1016,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フリースコクーンフルジップパーカ(ボーダー)(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361575-000"
     },
     {
       "productId": "E491899-000",
@@ -1009,7 +1037,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フランネルシャツ(チェック3)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360391-000"
     },
     {
       "productId": "E491898-000",
@@ -1027,7 +1058,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フランネルシャツ(チェック2)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360390-000"
     },
     {
       "productId": "E491897-000",
@@ -1045,7 +1079,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "コーデュロイスーパーワイドパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360524-000"
     },
     {
       "productId": "E491834-000",
@@ -1063,7 +1100,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "ワイドスリーブボーダーセーター",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361528-000"
     },
     {
       "productId": "E491831-000",
@@ -1081,7 +1121,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpBrand": "GU",
+      "jpName": "ウォームパデッドスタンドブルゾン",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360536-000"
     },
     {
       "productId": "E491830-000",
@@ -1099,7 +1142,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 7990,
+      "jpBrand": "GU",
+      "jpName": "パデッドモッズコート",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360562-000"
     },
     {
       "productId": "E491828-000",
@@ -1117,7 +1163,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "オーバーサイズテーラードジャケット(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360539-000"
     },
     {
       "productId": "E491827-000",
@@ -1135,7 +1184,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "スムーススウェット3Dバレルパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360521-000"
     },
     {
       "productId": "E491826-000",
@@ -1153,7 +1205,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 990,
+      "jpBrand": "GU",
+      "jpName": "ナイロンリップストップユーティリティパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360422-000"
     },
     {
       "productId": "E491825-000",
@@ -1171,7 +1226,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "パフィータッチニットクルーネックセーター",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360414-000"
     },
     {
       "productId": "E491824-000",
@@ -1189,7 +1247,10 @@
       "saleText": [
         "2026/10/27부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2490,
+      "jpBrand": "GU",
+      "jpName": "タックテーパードパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360402-000"
     },
     {
       "productId": "E491822-000",
@@ -1207,7 +1268,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1490,
+      "jpBrand": "GU",
+      "jpName": "コットンワイドユーティリティパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361556-000"
     },
     {
       "productId": "E491821-000",
@@ -1225,7 +1289,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットジョガーパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360522-000"
     },
     {
       "productId": "E491820-000",
@@ -1243,7 +1310,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットハーフジッププルオーバー",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360442-000"
     },
     {
       "productId": "E491819-000",
@@ -1261,7 +1331,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットコクーンパーカ(バイカラー)(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361576-000"
     },
     {
       "productId": "E491817-000",
@@ -1279,7 +1352,10 @@
       "saleText": [
         "2026/11/17부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "ヘビーウェイトスウェットコクーンフルジップパーカ(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360454-000"
     },
     {
       "productId": "E491815-000",
@@ -1297,7 +1373,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フリースコクーンフルジップパーカ(オーバーサイズフィット)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361113-000"
     },
     {
       "productId": "E491813-000",
@@ -1315,7 +1394,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "フェザーヤーンVネックカーディガン",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361309-000"
     },
     {
       "productId": "E491812-000",
@@ -1333,7 +1415,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E491811-000",
@@ -1351,7 +1434,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1990,
+      "jpBrand": "GU",
+      "jpName": "デニムワークジャケット",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360542-000"
     },
     {
       "productId": "E491810-000",
@@ -1369,7 +1455,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 3990,
+      "jpBrand": "GU",
+      "jpName": "デニムワイドカーゴパンツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360421-000"
     },
     {
       "productId": "E491809-000",
@@ -1387,7 +1476,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 7990,
+      "jpBrand": "GU",
+      "jpName": "コージーメルトンバルマカーンコート",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E360538-000"
     },
     {
       "productId": "E491807-000",
@@ -1405,7 +1497,10 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 2990,
+      "jpBrand": "GU",
+      "jpName": "3Dバレルジーンズ(丈長め)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E361124-000"
     },
     {
       "productId": "E491380-000",
@@ -1423,7 +1518,7 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": 1990
+      "jpBase": null
     },
     {
       "productId": "E491365-000",
@@ -1767,7 +1862,7 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": 3990
+      "jpBase": null
     },
     {
       "productId": "E489482-000",
@@ -2795,7 +2890,10 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1490,
+      "jpBrand": "GU",
+      "jpName": "ウォッシャブルブークレニットシャツ(5分袖)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E359270-000"
     },
     {
       "productId": "E486746-000",
@@ -2813,7 +2911,8 @@
       "saleText": [
         "2026/11/24부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E486736-000",
@@ -2831,7 +2930,10 @@
       "saleText": [
         "2026/10/06부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 990,
+      "jpBrand": "GU",
+      "jpName": "ナイロンポケットシャツ(5分袖)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E359041-000"
     },
     {
       "productId": "E486734-000",
@@ -2849,7 +2951,8 @@
       "saleText": [
         "2026/11/10부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": null,
+      "jpBrand": "GU"
     },
     {
       "productId": "E486723-000",
@@ -2867,7 +2970,10 @@
       "saleText": [
         "2026/11/03부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 1290,
+      "jpBrand": "GU",
+      "jpName": "ジョーツ",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E359238-000"
     },
     {
       "productId": "E486722-000",
@@ -2885,7 +2991,10 @@
       "saleText": [
         "2026/10/27부터 가격인하"
       ],
-      "jpBase": null
+      "jpBase": 990,
+      "jpBrand": "GU",
+      "jpName": "バレルレッグジーンズ(丈長め80.0cm)",
+      "jpUrl": "https://www.gu-global.com/jp/ja/products/E353258-000"
     },
     {
       "productId": "E486612-000",
@@ -3082,24 +3191,6 @@
       ],
       "saleText": [
         "2026/09/22부터 가격인하"
-      ],
-      "jpBase": null
-    },
-    {
-      "productId": "E485071-000",
-      "name": "NY POP ART UT(그래픽T)Basquiat",
-      "gender": "MEN",
-      "priceGroup": "00",
-      "tag": "티셔츠",
-      "krBase": 12900,
-      "krPromo": 9900,
-      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485071/item/krgoods_57_485071_3x4.jpg",
-      "url": "https://www.uniqlo.com/kr/ko/products/E485071-000",
-      "saleTypes": [
-        "가격할인"
-      ],
-      "saleText": [
-        "2026/09/29부터 가격인하"
       ],
       "jpBase": null
     },

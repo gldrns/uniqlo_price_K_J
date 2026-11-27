@@ -38,13 +38,14 @@ class Product {
         krBase = j['krBase'],
         krPromo = j['krPromo'],
         jpBase = j['jpBase'],
+        jpBrand = j['jpBrand'],
         image = j['image'],
         saleTypes = List<String>.from(j['saleTypes']),
         saleText = List<String>.from(j['saleText']);
 
   final String id, name, gender, tag;
   final int? krBase, krPromo, jpBase;
-  final String? image;
+  final String? image, jpBrand;
   final List<String> saleTypes, saleText;
 }
 
@@ -206,7 +207,8 @@ class _ProductTile extends StatelessWidget {
                   style: const TextStyle(fontWeight: FontWeight.bold, color: Colors.black)),
             ],
           ),
-          Text('일본 정가 ${p.jpBase != null ? yen(p.jpBase!) : '일본 미판매/정보 없음'}'),
+          Text('일본${p.jpBrand == 'GU' ? ' GU' : ''} 정가 '
+              '${p.jpBase != null ? yen(p.jpBase!) : '일본 미판매/정보 없음'}'),
           if (p.saleText.isNotEmpty) Text(p.saleText.join(' · '), style: const TextStyle(fontSize: 11)),
         ],
       ),
