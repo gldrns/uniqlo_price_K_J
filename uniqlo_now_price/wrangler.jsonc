@@ -1,9 +1,13 @@
 {
-  // Cloudflare Workers 정적 에셋 배포 (Flutter 웹 빌드 결과물)
+  // Cloudflare Workers: Flutter 웹 빌드(정적 에셋) + 매장 재고 조회 API(worker/index.js)
   "name": "uniqlo-now-price",
+  "main": "worker/index.js",
   "compatibility_date": "2026-11-27",
   "assets": {
     "directory": "./build/web",
-    "not_found_handling": "single-page-application"
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    // /api/* 는 정적 파일보다 Worker 코드가 먼저 처리
+    "run_worker_first": ["/api/*"]
   }
 }
